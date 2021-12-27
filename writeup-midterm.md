@@ -1,6 +1,8 @@
 #  Sensor Fusion and Tracking - Object Detection
 
-In this lesson, I get the ideas of how to process lidar point cloud data, and detect objects in BEV image.
+In this lesson, I get the ideas of how to process lidar point cloud data, and detect objects in BEV image.  
+
+
 
 ## Section 1 : Compute Lidar Point-Cloud from Range Image
 ### Visualize range image channels (ID_S1_EX1)
